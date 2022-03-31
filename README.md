@@ -1,5 +1,15 @@
-# junit5-testing-springboot
+# This project is made to learn and test JUnit 5 and Mockito with SpringBoot
 
-# Apache Maven 3.8.3
+junit5-testing-springboot
 
-# java version "1.8.0_144"
+## Also uses 
+
+Hamcrest, JsonPath, JsonAssert
+
+## Tools used to compile this project was
+
+```text
+Apache Maven 3.8.3
+
+java version "1.8.0_144"
+```
